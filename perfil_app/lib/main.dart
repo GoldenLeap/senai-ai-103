@@ -35,14 +35,12 @@ class PerfilPage extends StatelessWidget {
             children: [
               const CircleAvatar(
                 radius: 60,
-                child: Icon(
-                  Icons.person,
-                  size: 70,
-                ),
+                backgroundImage: AssetImage('assets/image/perfil.png'),
+    
               ),
               const SizedBox(height: 20),
               const Text(
-                'Não tenho nome',
+                'Gabriel Bernardi',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
