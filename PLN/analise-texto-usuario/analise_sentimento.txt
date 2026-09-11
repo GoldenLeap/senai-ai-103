@@ -1,0 +1,37 @@
+Digite um texto para ser analisado: Idioma principal do texto: {'name': 'Portuguese', 'iso6391_name': 'pt', 'confidence_score': 1.0}
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Analise de sentimento
+Sentimento|                                                  Positivo|                                         | Neutro|                                 | Negativo|                      
+misturado|                                                   41.00%|                                            31.00%|                                 | 28.00%|                       
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frases chaves
+mínimo temor
+almas sinceras
+união
+obstáculos
+vela errante
+amor
+marco
+tempestade
+bravura
+astro
+Cujo
+valor
+altura
+tempo
+alfange
+mocidade
+hora
+eternidade
+poeta
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Entidades:
+Entidade|                                                    Categoria|                                         Confiança|                              
+tempestade                                                   Event                                              85.00%                                  
+astro                                                        PersonType                                         79.00%                                  
+vela                                                         Product                                            67.00%                                  
+alfange                                                      PersonType                                         77.00%                                  
+hora em hora                                                 DateTime                                           69.00%                                  
+poeta                                                        PersonType                                         99.00%                                  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
